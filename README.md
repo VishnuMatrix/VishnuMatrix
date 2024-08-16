@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Vishnu Kumar 👋
+Welcome to my GitHub profile! I'm a passionate software developer with expertise in C, C++, and Python. I thrive on turning complex problems into elegant solutions and am always eager to learn and explore new technologies.
 
-<!--
-**VishnuMatrix/VishnuMatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 C/C++ Enthusiast: Crafting high-performance applications and systems.
+🔹 Python : Proficient in Python (basic understanding)
+🔹 SQL :   BASIC understanding in structured query language
+🔹 Problem Solver: Adept at debugging, optimizing, and creating efficient code.
+Feel free to explore my repositories and check out my projects. I'm always open to collaboration and new opportunities. Let’s connect and create something amazing together!
 
-Here are some ideas to get you started:
+[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnuMatrix)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Connect with me on LinkedIn
+-> Vishnu Kumar
+📧 Email me
+-> kumarvishnu9831@gmail.com
